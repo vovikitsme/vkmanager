@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/CommentsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/PublicationController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/TagController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/blog/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/blog/single.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/comments/delete.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/comments/edit.blade.php" charset="UTF-8" />
+  </component>
+</project>
